@@ -1,0 +1,2 @@
+# https-github.com-ahujasid-mcp-for-blender
+blender
